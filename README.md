@@ -13,9 +13,9 @@ This is an Android application designed for D.Y Patil College of Engineering. Th
     Fetches the stored profile image to display in the app.
 # Screenshots
   ![1](https://github.com/user-attachments/assets/d9bb4dda-fa99-45a8-8dc8-555c16c32254)
-![4](https://github.com/user-attachments/assets/0d2f93a8-a2ec-4b25-a329-44c252f1e7aa)
 ![2](https://github.com/user-attachments/assets/38ac0060-d379-4d4b-9c29-03bfc06aee91)
 ![31](https://github.com/user-attachments/assets/afed6902-1ddb-405b-8c5f-67fc2eef4467)
+![4](https://github.com/user-attachments/assets/0d2f93a8-a2ec-4b25-a329-44c252f1e7aa)
 
 
 # Installation
