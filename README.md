@@ -38,6 +38,9 @@ Clone the repository:
 <uses-permission android:name="android.permission.INTERNET" />
 
 # Folder Structure
+![strcut](https://github.com/user-attachments/assets/01ba2b32-1626-43da-96ef-9831b838cc63)
+
+
 app/
 ├── manifests/
 ├── java/
@@ -76,6 +79,8 @@ app/
 │   │       ├── strings.xml
 │   │       └── colors.xml
 └── build.gradle
+
+
 
 
 # Code Overview
