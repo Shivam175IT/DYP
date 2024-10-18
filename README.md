@@ -22,7 +22,6 @@ This is an Android application designed for D.Y Patil College of Engineering. Th
 To run the project locally, follow these steps:
 
 Clone the repository:
-  git clone https://github.com/your-repo-url/DYPatilEngineeringApp.git
 1. Open the project in Android Studio.
 2. Sync Gradle files and ensure you have the required dependencies, including Firebase.
 3. Connect the app to Firebase by following Firebase Setup for Android.
